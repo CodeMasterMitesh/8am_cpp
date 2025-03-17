@@ -1,5 +1,5 @@
 #include<iostream>
-// structure
+// class
 using namespace std;
 
 class Book{
