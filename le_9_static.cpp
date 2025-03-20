@@ -28,7 +28,7 @@ float Box::price;
 int main()
 {
     system("cls");
-    // Box b1,b2;
+    Box b1,b2;
     // b1.setDimention(15,25,35);
     // b1.showDimention();
     // Box::price = 200.25;
