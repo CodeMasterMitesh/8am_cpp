@@ -18,7 +18,6 @@ class Box{
     }
 
     friend void f1(Box, LunchBox);
-    // friend int main();
     
 };
 
