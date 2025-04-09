@@ -31,7 +31,9 @@ int main()
     system("cls");
     Box *p; // Static memory allocation
 
-    p = new Box; // Dynamic Memory Allocation
+    // Box b; // Static memory allocation create object of Box class
+
+    p = new Box; // Dynamic Memory Allocation create new object of Box class
 
     p->setDimention(10,20,30);
     p->showDimention();
