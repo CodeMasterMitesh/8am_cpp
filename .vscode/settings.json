@@ -57,11 +57,15 @@
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
+    "*.sqlbook": "sql",
+    "*.ndjson": "jsonl",
+    "*.dbclient-js": "javascript",
     "ostream": "cpp",
     "iostream": "cpp",
     "istream": "cpp",
     "*.tcc": "cpp",
     "iosfwd": "cpp",
-    "system_error": "cpp"
+    "system_error": "cpp",
+    "new": "cpp"
   }
 }
